@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .card {
+        @apply
+
+        px-2 py-3
+        bg-teal-100 
+        text-gray-800
+        w-72 min-h-[10rem]
+        shadow-lg overflow-hidden
+        rounded-md my-10
+    }
+}
+
+.impact-section{
+    background-image: url('../../public/assets/img/slider-3.jpg');
+}
+
+.about-img{
+    background-image: url('../../public/assets/img/about-img.jpg');
+    width: 100vw;
+    height: 50vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.overlay-div{
+    background: rgba(39,62,84,0.82);
+    overflow: hidden;
+    height: 100%;
+    z-index: 2;
+}
+
