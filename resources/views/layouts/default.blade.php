@@ -89,8 +89,8 @@
                 <a href="{{ route('home') }}" class=" mx-2 hover:text-gray-300 text-base font-sans px-3">Home</a>
                 <a href="{{ route('about') }}" class="mx-2 hover:text-gray-300 text-base font-sans px-3">About</a>
                 <a href="{{ route('projects-home') }}" class="mx-2 hover:text-gray-300 text-base font-sans px-3">Projects</a>
-                <a href="#" class="mx-2 hover:text-gray-300 text-base font-sans px-3">Partners</a>
-                <a href="#" class="mx-2 hover:text-gray-300 text-base font-sans px-3">Contact Us</a>
+                <a href="{{ route('partnership') }}" class="mx-2 hover:text-gray-300 text-base font-sans px-3">Partners</a>
+                <a href="{{ route('contact') }}" class="mx-2 hover:text-gray-300 text-base font-sans px-3">Contact Us</a>
             </nav>
         </div>
     </header>
