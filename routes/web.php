@@ -51,9 +51,11 @@ Route::get('/projects/siyakha', function () {
 
 
 // Partners Section
-
+Route::get('/partner-with-us', function () {
+    return view('partnership');
+})->name('partnership');
 
 // Contact Page
-Route::get('/contact', function () {
-    return view('contact-us');
+Route::get('/contact-us', function () {
+    return view('contact');
 })->name('contact');
