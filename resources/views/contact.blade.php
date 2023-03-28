@@ -71,13 +71,13 @@
                   focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none
                 " id="exampleFormControlTextarea13" rows="3" placeholder="Message"></textarea>
                 </div>
-                <div class="form-group form-check text-center mb-6">
+                <!--div class="form-group form-check text-center mb-6">
                   <input type="checkbox"
                     class="form-check-input appearance-none h-4 w-4 border border-gray-300 rounded-sm bg-white checked:bg-blue-600 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain mr-2 cursor-pointer"
                     id="exampleCheck87" checked>
                   <label class="form-check-label inline-block text-gray-800" for="exampleCheck87">Send me a copy of this
                     message</label>
-                </div>
+                </div-->
                 <button type="submit" class="
                 w-full
                 px-6
@@ -284,13 +284,13 @@
               focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none
             " id="exampleFormControlTextarea13" rows="3" placeholder="Message"></textarea>
           </div>
-          <div class="form-group form-check text-center mb-6">
+          <!--div class="form-group form-check text-center mb-6">
             <input type="checkbox"
               class="form-check-input appearance-none h-4 w-4 border border-gray-300 rounded-sm bg-white checked:bg-blue-600 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain mr-2 cursor-pointer"
               id="exampleCheck87" checked>
             <label class="form-check-label inline-block text-gray-800" for="exampleCheck87">Send me a copy of this
               message</label>
-          </div>
+          </div-->
           <button type="submit" class="
             w-full
             px-6
@@ -316,5 +316,30 @@
   <!-- Section: Design Block -->
 
 </div>
+</section>
+{{-- Subscribe To Our Monthly News Letter --}}
+
+<section class="bg-orange-400 text-cyan-900 px-20">
+  <h1 class="font-sans text-center font-semibold text-6xl pb-16 pt-28">Subscribe<span
+          class="font-thin font-cyan-500">
+          To Our Monthly Newsletter</span></h1>
+  <hr class="border border-cayn-500">
+  <br>
+  <form action="submit" class="py-10
+  ">
+      <div class="p10">
+
+          <div class="text-center">
+              <label for="Email Address" class="font-thin font-sans  text-3xl">Email Address</label>
+              <br>
+              <input type="email" class="w-3/5 rounded-sm h-10 my-5" Placeholder="Please Enter Your Email Here">
+          </div>
+      </div>
+      <div class="text-center mt-5">
+          <button type="submit"
+              class="bg-cyan-900 text-white py-2 font-semibold px-5 rounded-sm shadow hover:text-gray-300">Subscribe</button>
+      </div>
+
+  </form>
 </section>
 @endsection

@@ -13,9 +13,9 @@
 
 
 @section('content')
-<section class="mt-18  px-20 py-20 h-full bg-fixed ..." style="background-image: url('assets/img/partners.jpeg')">
+<section class="mt-20  px-20 h-full bg-fixed ..." style="background-image: url('assets/img/partners.jpeg')">
 <div class="h-14 mb-5 flex flex-col justify-center items-center" >
-    <div class="mt-20 py-20 sm:w-8/12">
+    <div class="mt-20 py-10 sm:w-8/12">
         <div class="py-20 "></div>
         <div class="py-20 "></div>
      <div class="mt-20 mb-8 text-center text-5xl text-white">Our Partners</div>
@@ -436,4 +436,5 @@
   </div>
   <!-- Container for demo purpose -->
 </section>
+
 @endsection
