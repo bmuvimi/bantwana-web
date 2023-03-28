@@ -69,7 +69,7 @@
                 </div>
             </div>
             <p class="text-1xl font-sans px-10 mt-16">
-                Bantwana Zimbabwe (BZ) is implementing the Zingane – OVC project which aims at Sustaining Prevention, Care and Support Services for OVC in Zimbabwe (SPCSS-OVC) in Bulawayo, Matabeleland North, Matabeleland South, and Midlands. Together with two consortium partners Insiza Godlwayo AIDS Council (IGAC) and Jointed Hands Welfare Organization (JHWO), BZ is implementing a holistic conceptual approach and a robust implementation framework that directly supports the SPCSS-OVC project’s goal of improving “health, safety, education, and stability outcomes for orphans and vulnerable children, adolescents, and youth affected by HIV.” The specific objectives of the project are to:
+                Bantwana Zimbabwe (BZ) is implementing the Zingane – OVC project aimed at Sustaining Prevention, Care and Support Services for OVC in Zimbabwe (SPCSS-OVC) in Bulawayo, Matabeleland North, Matabeleland South, and Midlands. Together with two consortium partners Insiza Godlwayo AIDS Council (IGAC) and Jointed Hands Welfare Organization (JHWO), BZ is implementing a holistic conceptual approach and a robust implementation framework that directly supports the SPCSS-OVC project’s goal of improving “health, safety, education, and stability outcomes for orphans and vulnerable children, adolescents, and youth affected by HIV.” The specific objectives of the project are to:
             </p>
             <ol class="text-1xl  font-sans pt-5 px-20 list-disc pb-10">
                 <li>Improve access to HIV care and treatment services for children, adolescents, and youth.</li>

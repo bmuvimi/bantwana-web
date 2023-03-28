@@ -70,7 +70,7 @@
             </div>
             <p class="font-thin font-sans px-10 mt-10">
                 The DREAMS program is a United States President’s Emergency Plan for AIDS Relief (PEPFAR) initiative that
-                seeks to reduce new HIV infections in high burden ‘hot spots’ across 15 eastern and southern African
+                seeks to reduce new HIV infections in high burden ‘hot spots’ across 15 eastern and Southern African
                 countries, including Zimbabwe. With funding from the Centre for Disease Control and Prevention (CDC),
                 through ITECH, Bantwana Zimbabwe is implementing the ZIMPAAC DREAMS initiative within the Zimbabwe
                 Partnership to Accelerate AIDS Control (ZimPAAC) consortium in the four high priority districts in
@@ -79,7 +79,7 @@
             </p>
             <p class="text-1xl font-thin font-sans pt-5 px-10  pb-10">
                 In Bubi, Nkayi, Lupane and Tsholotsho, many structural drivers, such as poverty, child marriage, and
-                cultural norms lead AGYW to early sexual debut, increasing their risk of acquiring HIV. To address these
+                cultural norms lead Adolescent Girls Young Women ()AGYW, to early sexual debut, increasing their risk of acquiring HIV. To address these
                 challenges, BZ implemented the social protection response to HIV risk within ZimPAAC. The DREAMS initiative
                 uses an evidence-based combination of HIV prevention, gender norms change, basic financial literacy and
                 condom education with multi-stakeholder engagement to address the structural drivers of HIV infection among
