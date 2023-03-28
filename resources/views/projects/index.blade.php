@@ -5,7 +5,7 @@
         <div class="h-3/4">
             <section
             class="p-6 text-center shadow-lg md:p-12 md:text-left"
-            style="background-image: url('assets/img/our-projects.jpeg')">
+            style="background-image: url('assets/img/projects.jpeg')">
             <div class="flex justify-center">
               <div class="max-w-3xl">
                 <div
@@ -22,13 +22,15 @@
                         <h3 class="font-bold text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r to-cyan-800 from-orange-400 mb-4">OUR PROJECTS</h3>
                      <p
                         class="mb-0 font-semibold text-neutral-500 dark:text-neutral-400">
-                        Insika Ya Kusasa
+                        All children deserve better.
                       </p>
                       <p
                         class="mb-6 font-light text-neutral-500 dark:text-neutral-300">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id
-                        quam sapiente molestiae numquam quas, voluptates omnis nulla
-                        ea odio quia similique corrupti magnam.
+                        We champion the rights and interests of children nationwide, putting the most vulnerable children first.<br>
+                      </p>
+                      <p
+                        class="mb-6 font-light text-neutral-500 dark:text-neutral-300">
+                        With 5,000 dedicated staff across 4 projects, we respond to major emergencies, deliver innovative development programmes, and ensure children's voices are heard through our campaigning to build a better future for and with children.
                       </p>
                     </div>
                   </div>
@@ -53,9 +55,7 @@
                     </h1>
                     <hr>
 
-                    <p class="text-sm pt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore unde vel numquam
-                        dolor neque nisi cumque? Sunt recusandae expedita qui. Veritatis, voluptate? Vel ea libero assumenda
-                        molestias a. Aliquam, deleniti!...</p>
+                    <p class="text-sm pt-5">The DREAMS program is a United States President’s Emergency Plan for AIDS Relief (PEPFAR) initiative that seeks to reduce new HIV infections in high burden ‘hot spots’ across 15 eastern and southern African countries, including Zimbabwe. </p>
                     <br>
                     <a href="{{ route('projects-dreams') }}" class="text-cyan-700 hover:font-bold hover:text-cyan-900">Read
                         More ></a>
@@ -68,12 +68,10 @@
                     alt="Fiction Product" class="h-36 object-cover rounded-tl-sm rounded-tr-sm">
 
                 <div class="px-3 py-2">
-                    <h1 class="font-semibold text-cyan-900 py-2"><a href="{{ route('projects-ovc') }}">OVC - USAID</a></h1>
+                    <h1 class="font-semibold text-cyan-900 py-2"><a href="{{ route('projects-ovc') }}">ZINGANE - OVC PROJECT</a></h1>
                     <hr>
 
-                    <p class="text-sm pt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore unde vel numquam
-                        dolor neque nisi cumque? Sunt recusandae expedita qui. Veritatis, voluptate? Vel ea libero assumenda
-                        molestias a. Aliquam, deleniti!...</p>
+                    <p class="text-sm pt-5">Bantwana Zimbabwe (BZ) is implementing the Zingane – OVC project which aims at Sustaining Prevention, Care and Support Services for OVC in Zimbabwe (SPCSS-OVC) in Bulawayo, Matabeleland North, Matabeleland South, and Midlands.</p>
                     <br>
                     <a href="{{ route('projects-ovc') }}" class="text-cyan-700 hover:font-bold hover:text-cyan-900">Read
                         More ></a>
@@ -85,13 +83,14 @@
                     alt="Fiction Product" class="h-36 object-cover rounded-tl-sm rounded-tr-sm">
 
                 <div class="px-3 py-2">
-                    <h1 class="font-semibold text-cyan-900 py-2"><a href="{{ route('projects-cp') }}">Child Protection</a>
+                    <h1 class="font-semibold text-cyan-900 py-2"><a href="{{ route('projects-cp') }}">CHILD PROTECTION</a>
                     </h1>
                     <hr>
 
-                    <p class="text-sm pt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore unde vel numquam
-                        dolor neque nisi cumque? Sunt recusandae expedita qui. Veritatis, voluptate? Vel ea libero assumenda
-                        molestias a. Aliquam, deleniti!...</p>
+                    <!--p class="text-sm pt-5">Regardless of who they are or where they are from, our child protection experts work to keep children safe.
+                    </p-->
+                    <p class="text-sm pt-5">
+                      The Child Protection programme is a UNICEF-funded project designed to strengthen the capacity of Zimbabwe’s child protection system to provide a coordinated response to violence against children and bolster local government and community responses to COVID-19.</p>
                     <br>
                     <a href="{{ route('projects-cp') }}" class="text-cyan-700 hover:font-bold hover:text-cyan-900">Read More
                         ></a>
@@ -103,7 +102,7 @@
                     alt="Fiction Product" class="h-36 object-cover rounded-tl-sm rounded-tr-sm">
 
                 <div class="px-3 py-2">
-                    <h1 class="font-semibold text-cyan-900 py-2"><a href="{{ route('projects-siyakha') }}">Siyakha - TA</a>
+                    <h1 class="font-semibold text-cyan-900 py-2"><a href="{{ route('projects-siyakha') }}">SIYAKHA - TA</a>
                     </h1>
                     <hr>
 
@@ -122,11 +121,9 @@
         <div class="h-screen">
             <section class="text-neutral-700 dark:text-neutral-300">
                 <div class="mx-auto text-center md:max-w-xl lg:max-w-3xl">
-                  <h3 class="mb-6 text-3xl font-bold">Testimonials</h3>
+                  <h3 class="mb-6 text-3xl text-transparent bg-clip-text bg-gradient-to-r to-cyan-800 from-orange-500 font-bold">Testimonials</h3>
                   <p class="mb-6 pb-2 md:mb-12 md:pb-0">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit,
-                    error amet numquam iure provident voluptate esse quasi, veritatis
-                    totam voluptas nostrum quisquam eum porro a pariatur veniam.
+                    What people are saying about Bantwana Zimbabwe keeps us going.
                   </p>
                 </div>
               
@@ -134,7 +131,7 @@
                   <div>
                     <div
                       class="block rounded-lg bg-white shadow-lg dark:bg-neutral-700 dark:shadow-black/30">
-                      <div class="h-28 overflow-hidden rounded-t-lg bg-[#9d789b]"></div>
+                      <div class="h-28 overflow-hidden rounded-t-lg bg-gradient-to-r to-cyan-700 from-orange-400"></div>
                       <div
                         class="mx-auto -mt-12 w-24 overflow-hidden rounded-full border-2 border-white bg-white dark:border-neutral-800 dark:bg-neutral-800">
                         <img
@@ -161,7 +158,7 @@
                   <div>
                     <div
                       class="block rounded-lg bg-white shadow-lg dark:bg-neutral-700 dark:shadow-black/30">
-                      <div class="h-28 overflow-hidden rounded-t-lg bg-[#7a81a8]"></div>
+                      <div class="h-28 overflow-hidden rounded-t-lg bg-gradient-to-r to-cyan-800 from-cyan-700"></div>
                       <div
                         class="mx-auto -mt-12 w-24 overflow-hidden rounded-full border-2 border-white bg-white dark:border-neutral-800 dark:bg-neutral-800">
                         <img
@@ -188,7 +185,7 @@
                   <div>
                     <div
                       class="block rounded-lg bg-white shadow-lg dark:bg-neutral-700 dark:shadow-black/30">
-                      <div class="h-28 overflow-hidden rounded-t-lg bg-[#6d5b98]"></div>
+                      <div class="h-28 overflow-hidden rounded-t-lg bg-gradient-to-r to-orange-400 from-cyan-800"></div>
                       <div
                         class="mx-auto -mt-12 w-24 overflow-hidden rounded-full border-2 border-white bg-white dark:border-neutral-800 dark:bg-neutral-800">
                         <img
