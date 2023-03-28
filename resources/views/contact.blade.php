@@ -82,7 +82,7 @@
                 w-full
                 px-6
                 py-2.5
-                bg-blue-600
+                bg-gradient-to-r to-blue-500 from-orange-400
                 text-white
                 font-medium
                 text-xs
@@ -103,7 +103,7 @@
                 <div class="mb-12 grow-0 shrink-0 basis-auto w-full md:w-6/12 px-3 lg:px-6">
                   <div class="flex items-start">
                     <div class="shrink-0">
-                      <div class="p-4 bg-blue-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
+                      <div class="p-4 bg-gradient-to-r to-blue-500 from-orange-400 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
                         <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="headset" class="w-5 text-white"
                           role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                           <path fill="currentColor"
@@ -141,7 +141,7 @@
                 <div class="mb-12 md:mb-0 grow-0 shrink-0 basis-auto w-full md:w-6/12 px-3 lg:px-6">
                   <div class="flex align-start">
                     <div class="shrink-0">
-                      <div class="p-4 bg-blue-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
+                      <div class="p-4 bg-gradient-to-r to-blue-500 from-orange-400 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
                         <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="newspaper"
                           class="w-5 text-white" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
                           <path fill="currentColor"
@@ -160,7 +160,7 @@
                 <div class="grow-0 shrink-0 basis-auto w-full md:w-6/12 px-3 lg:px-6">
                   <div class="flex align-start">
                     <div class="shrink-0">
-                      <div class="p-4 bg-blue-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
+                      <div class="p-4 bg-gradient-to-r to-blue-500 from-orange-400 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
                         <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bug" class="w-5 text-white"
                           role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                           <path fill="currentColor"
@@ -194,7 +194,7 @@
   <section class="mb-32 text-gray-800">
     <div class="flex flex-wrap">
       <div class="grow-0 shrink-0 basis-auto mb-12 md:mb-0 w-full md:w-7/12 px-3 lg:px-6">
-        <h2 class="text-3xl font-bold mb-6">Frequently asked questions</h2>
+        <h2 class="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r to-cyan-800 from-orange-400 mb-6">Frequently asked questions</h2>
         <p class="font-bold mb-2">Anim pariatur cliche reprehenderit?</p>
         <p class="text-gray-500 mb-6">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt
@@ -295,7 +295,7 @@
             w-full
             px-6
             py-2.5
-            bg-blue-600
+           bg-gradient-to-r to-cyan-800 from-orange-400
             text-white
             font-medium
             text-xs
