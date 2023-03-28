@@ -106,7 +106,7 @@
 
                     <p class="text-sm pt-5">DREAMS is a partnership committed to helping girls develop into Determined, Resilient, Empowered, AIDS-Free, Mentored, and Safe women. It funds evidence-informed approaches that address structural drivers that increase girls’ HIV risk such as poverty and gender inequality.</p>
                     <br>
-                    <a href="" class="text-cyan-700 hover:font-bold hover:text-cyan-900">Read More ></a>
+                    <a href="{{ route('projects-dreams') }}" class="text-cyan-700 hover:font-bold hover:text-cyan-900">Read More ></a>
                 </div>
             </div>
 
@@ -116,15 +116,12 @@
                     alt="Fiction Product" class="h-36 object-cover rounded-tl-sm rounded-tr-sm">
 
                 <div class="px-3 py-2">
-                    <h1 class="font-semibold text-cyan-900 py-2">OVC - USAID</h1>
+                    <h1 class="font-semibold text-cyan-900 py-2">ZINGANE - OVC PROJECT</h1>
                     <hr>
 
-                    <p class="text-sm pt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore unde vel
-                        numquam
-                        dolor neque nisi cumque? Sunt recusandae expedita qui. Veritatis, voluptate? Vel ea libero assumenda
-                        molestias a. Aliquam, deleniti!...</p>
+                    <p class="text-sm pt-5">Bantwana Zimbabwe (BZ) is implementing the Zingane – OVC project which aims at Sustaining Prevention, Care and Support Services for OVC in Zimbabwe (SPCSS-OVC) in Bulawayo, Matabeleland North, Matabeleland South, and Midlands.</p>
                     <br>
-                    <a href="" class="text-cyan-700 hover:font-bold hover:text-cyan-900">Read More ></a>
+                    <a href="{{ route('projects-ovc') }}" class="text-cyan-700 hover:font-bold hover:text-cyan-900">Read More ></a>
                 </div>
             </div>
             <!-- Project card -->
@@ -133,15 +130,12 @@
                     alt="Fiction Product" class="h-36 object-cover rounded-tl-sm rounded-tr-sm">
 
                 <div class="px-3 py-2">
-                    <h1 class="font-semibold text-cyan-900 py-2">Child Protection - UNICEF</h1>
+                    <h1 class="font-semibold text-cyan-900 py-2">CHILD PROTECTION - UNICEF</h1>
                     <hr>
 
-                    <p class="text-sm pt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore unde vel
-                        numquam
-                        dolor neque nisi cumque? Sunt recusandae expedita qui. Veritatis, voluptate? Vel ea libero assumenda
-                        molestias a. Aliquam, deleniti!...</p>
+                    <p class="text-sm pt-5">The Child Protection programme is a UNICEF-funded project designed to strengthen the capacity of Zimbabwe’s child protection system to provide a coordinated response to violence against children and bolster local government and community responses to COVID-19.</p>
                     <br>
-                    <a href="" class="text-cyan-700 hover:font-bold hover:text-cyan-900">Read More ></a>
+                    <a href="{{ route('projects-cp') }}" class="text-cyan-700 hover:font-bold hover:text-cyan-900">Read More ></a>
                 </div>
             </div>
         </div>
@@ -172,9 +166,9 @@
         <div class="overlay-div">
             <div class="py-20 grid grid-1 md:grid-cols-3  lg:grid-cols-3 gap-6 px-20">
                 <div class="text-center text-gray-200">
-                    <h1 class="font-semibold text-white text-6xl md:text-3xl">12+</h1>
+                    <h1 class="font-semibold text-white text-6xl md:text-3xl">35+</h1>
                     <hr class="border border-white my-4">
-                    <p class="font-thin text-4xl md:text-3xl">Completed Projects</p>
+                    <p class="font-thin text-4xl md:text-3xl">Active Districts</p>
                 </div>
                 <div class="text-center text-gray-200">
                     <h1 class="font-semibold  text-6xl md:text-3xl">5+</h1>
