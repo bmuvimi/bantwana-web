@@ -26,11 +26,11 @@
                       </p>
                       <p
                         class="mb-6 font-light text-neutral-500 dark:text-neutral-300">
-                        We champion the rights and interests of children nationwide, putting the most vulnerable children first.<br>
+                        We champion the rights of ALL children, putting the most vulnerable children first.<br>
                       </p>
                       <p
                         class="mb-6 font-light text-neutral-500 dark:text-neutral-300">
-                        With 5,000 dedicated staff across 4 projects, we respond to major emergencies, deliver innovative development programmes, and ensure children's voices are heard through our campaigning to build a better future for and with children.
+                        We stand ready to respond to emergencies, deliver innovative development programmes, and ensure children's voices are heard.  
                       </p>
                     </div>
                   </div>
@@ -55,7 +55,7 @@
                     </h1>
                     <hr>
 
-                    <p class="text-sm pt-5">The DREAMS program is a United States President’s Emergency Plan for AIDS Relief (PEPFAR) initiative that seeks to reduce new HIV infections in high burden ‘hot spots’ across 15 eastern and southern African countries, including Zimbabwe. </p>
+                    <p class="text-sm pt-5">DREAMS is a partnership committed to helping girls develop into Determined, Resilient, Empowered, AIDS-Free, Mentored, and Safe women. It funds evidence-informed approaches that address structural drivers that increase girls’ HIV risk such as poverty and gender inequality.</p>
                     <br>
                     <a href="{{ route('projects-dreams') }}" class="text-cyan-700 hover:font-bold hover:text-cyan-900">Read
                         More ></a>
@@ -83,7 +83,7 @@
                     alt="Fiction Product" class="h-36 object-cover rounded-tl-sm rounded-tr-sm">
 
                 <div class="px-3 py-2">
-                    <h1 class="font-semibold text-cyan-900 py-2"><a href="{{ route('projects-cp') }}">CHILD PROTECTION</a>
+                    <h1 class="font-semibold text-cyan-900 py-2"><a href="{{ route('projects-cp') }}">CHILD PROTECTION - UNICEF</a>
                     </h1>
                     <hr>
 
@@ -106,9 +106,7 @@
                     </h1>
                     <hr>
 
-                    <p class="text-sm pt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore unde vel numquam
-                        dolor neque nisi cumque? Sunt recusandae expedita qui. Veritatis, voluptate? Vel ea libero assumenda
-                        molestias a. Aliquam, deleniti!...</p>
+                    <p class="text-sm pt-5">BZ is providing technical assistance (TA) to DREAMS partners regionally in the full implementation of enhanced economic strengthening (ES), utilising its PEPFAR approved Siyakha model. BZ’s Regional TA portfolio includes projects implemented in South Africa, Namibia, Mozambique, Malawi , Zambia and Zimbabwe.</p>
                     <br>
                     <a href="{{ route('projects-siyakha') }}" class="text-cyan-700 hover:font-bold hover:text-cyan-900">Read
                         More ></a>
@@ -213,4 +211,29 @@
               </section>
         </div>
     </section>
+    {{-- Subscribe To Our Monthly News Letter --}}
+
+    <section class="bg-orange-400 text-cyan-900 px-20">
+      <h1 class="font-sans text-center font-semibold text-6xl pb-16 pt-28">Subscribe<span
+              class="font-thin font-cyan-500">
+              To Our Monthly Newsletter</span></h1>
+      <hr class="border border-cayn-500">
+      <br>
+      <form action="submit" class="py-10
+      ">
+          <div class="p10">
+
+              <div class="text-center">
+                  <label for="Email Address" class="font-thin font-sans  text-3xl">Email Address</label>
+                  <br>
+                  <input type="email" class="w-3/5 rounded-sm h-10 my-5" Placeholder="Please Enter Your Email Here">
+              </div>
+          </div>
+          <div class="text-center mt-5">
+              <button type="submit"
+                  class="bg-cyan-900 text-white py-2 font-semibold px-5 rounded-sm shadow hover:text-gray-300">Subscribe</button>
+          </div>
+
+      </form>
+  </section>
 @endsection
