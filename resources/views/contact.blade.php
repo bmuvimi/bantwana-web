@@ -25,14 +25,14 @@
                   py-1.5
                   text-base
                   font-normal
-                  text-gray-700
+                  text-cyan-800
                   bg-white bg-clip-padding
                   border border-solid border-gray-300
                   rounded
                   transition
                   ease-in-out
                   m-0
-                  focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" id="exampleInput7"
+                  focus:text-cyan-800 focus:bg-white focus:border-blue-600 focus:outline-none" id="exampleInput7"
                     placeholder="Name">
                 </div>
                 <div class="form-group mb-6">
@@ -42,14 +42,14 @@
                   py-1.5
                   text-base
                   font-normal
-                  text-gray-700
+                  text-cyan-800
                   bg-white bg-clip-padding
                   border border-solid border-gray-300
                   rounded
                   transition
                   ease-in-out
                   m-0
-                  focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" id="exampleInput8"
+                  focus:text-cyan-800 focus:bg-white focus:border-blue-600 focus:outline-none" id="exampleInput8"
                     placeholder="Email address">
                 </div>
                 <div class="form-group mb-6">
@@ -61,14 +61,14 @@
                   py-1.5
                   text-base
                   font-normal
-                  text-gray-700
+                  text-cyan-800
                   bg-white bg-clip-padding
                   border border-solid border-gray-300
                   rounded
                   transition
                   ease-in-out
                   m-0
-                  focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none
+                  focus:text-cyan-800 focus:bg-white focus:border-blue-600 focus:outline-none
                 " id="exampleFormControlTextarea13" rows="3" placeholder="Message"></textarea>
                 </div>
                 <!--div class="form-group form-check text-center mb-6">
@@ -82,7 +82,7 @@
                 w-full
                 px-6
                 py-2.5
-                bg-gradient-to-r to-blue-500 from-orange-400
+                bg-orange-400
                 text-white
                 font-medium
                 text-xs
@@ -90,7 +90,7 @@
                 uppercase
                 rounded
                 shadow-md
-                hover:bg-blue-700 hover:shadow-lg
+                hover:bg-cyan-700 hover:shadow-lg
                 focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0
                 active:bg-blue-800 active:shadow-lg
                 transition
@@ -103,7 +103,7 @@
                 <div class="mb-12 grow-0 shrink-0 basis-auto w-full md:w-6/12 px-3 lg:px-6">
                   <div class="flex items-start">
                     <div class="shrink-0">
-                      <div class="p-4 bg-gradient-to-r to-blue-500 from-orange-400 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
+                      <div class="p-4 bg-orange-400 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
                         <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="headset" class="w-5 text-white"
                           role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                           <path fill="currentColor"
@@ -114,8 +114,8 @@
                     </div>
                     <div class="grow ml-6">
                       <p class="font-bold mb-1">Head Office - Harare</p>
-                      <p class="text-gray-500">info@bantwana.co.zw</p>
-                      <p class="text-gray-500"> 263 8677 009776</p>
+                      <p class="text-cyan-800">info@bantwana.co.zw</p>
+                      <p class="text-cyan-800"> 263 8677 009776</p>
                     </div>
                   </div>
                 </div>
@@ -133,15 +133,15 @@
                     </div>
                     <div class="grow ml-6">
                       <p class="font-bold mb-1">Sub Office - Harare</p>
-                      <p class="text-gray-500">bzinfo@bantwana.org</p>
-                      <p class="text-gray-500">+ 263 292280031</p>
+                      <p class="text-cyan-800">bzinfo@bantwana.org</p>
+                      <p class="text-cyan-800">+ 263 292280031</p>
                     </div>
                   </div>
                 </div-->
                 <div class="mb-12 md:mb-0 grow-0 shrink-0 basis-auto w-full md:w-6/12 px-3 lg:px-6">
                   <div class="flex align-start">
                     <div class="shrink-0">
-                      <div class="p-4 bg-gradient-to-r to-blue-500 from-orange-400 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
+                      <div class="p-4 bg-orange-400 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
                         <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="newspaper"
                           class="w-5 text-white" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
                           <path fill="currentColor"
@@ -152,15 +152,15 @@
                     </div>
                     <div class="grow ml-6">
                       <p class="font-bold mb-1">Regional Office - Bulawayo</p>
-                      <p class="text-gray-500">info@bantwana.co.zw</p>
-                      <p class="text-gray-500"> 263 8677 009776</p>
+                      <p class="text-cyan-800">info@bantwana.co.zw</p>
+                      <p class="text-cyan-800"> 263 8677 009776</p>
                     </div>
                   </div>
                 </div>
                 <div class="grow-0 shrink-0 basis-auto w-full md:w-6/12 px-3 lg:px-6">
                   <div class="flex align-start">
                     <div class="shrink-0">
-                      <div class="p-4 bg-gradient-to-r to-blue-500 from-orange-400 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
+                      <div class="p-4 bg-orange-400 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
                         <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bug" class="w-5 text-white"
                           role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                           <path fill="currentColor"
@@ -171,8 +171,8 @@
                     </div>
                     <div class="grow ml-6">
                       <p class="font-bold mb-1">Regional office - Kwekwe</p>
-                      <p class="text-gray-500">info@bantwana.co.zw</p>
-                      <p class="text-gray-500"> 263 8677 009776</p>
+                      <p class="text-cyan-800">info@bantwana.co.zw</p>
+                      <p class="text-cyan-800"> 263 8677 009776</p>
                     </div>
                   </div>
                 </div>
@@ -196,14 +196,14 @@
       <div class="grow-0 shrink-0 basis-auto mb-12 md:mb-0 w-full md:w-7/12 px-3 lg:px-6">
         <h2 class="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r to-cyan-800 from-orange-400 mb-6">Frequently asked questions</h2>
         <p class="font-bold mb-2">Anim pariatur cliche reprehenderit?</p>
-        <p class="text-gray-500 mb-6">
+        <p class="text-cyan-800 mb-6">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt
           autem numquam dolore molestias aperiam culpa alias veritatis
           architecto eos, molestiae vitae ex eligendi libero eveniet
           dolorem, doloremque rem aliquid perferendis.
         </p>
         <p class="font-bold mb-2">Non cupidatat skateboard dolor brunch?</p>
-        <p class="text-gray-500 mb-6">
+        <p class="text-cyan-800 mb-6">
           Distinctio corporis, iure facere ducimus quos consectetur ipsa ut
           magnam autem doloremque ex! Id, sequi. Voluptatum magnam sed fugit
           iusto minus et suscipit? Minima sunt at nulla tenetur, numquam
@@ -213,23 +213,23 @@
         <p class="font-bold mb-2">
           Praesentium voluptatibus temporibus consequatur non aspernatur?
         </p>
-        <p class="text-gray-500 mb-6">
+        <p class="text-cyan-800 mb-6 font-sans">
           Minima sunt at nulla tenetur, numquam unde quod modi magnam ab
           deserunt ipsam sint aliquid dolores libero repellendus cupiditate
           mollitia quidem dolorem.
         </p>
 
-        <p class="font-bold mb-2">
+        <p class="font-semibold mb-2">
           Voluptatum magnam sed fugit iusto minus et suscipit?
         </p>
-        <p class="text-gray-500">
+        <p class="text-cyan-800 font-sans">
           Laudantium perferendis, est alias iure ut veniam suscipit dolorem
           fugit. Et ipsam corporis earum ea ut quae cum non iusto blanditiis
           ipsum dolor eius reiciendis, velit adipisci quas.
         </p>
       </div>
       <div class="grow-0 shrink-0 basis-auto w-full md:w-5/12 px-3 lg:px-6">
-        <p class="font-bold mb-6">Didn't find your answer in the FAQ? Contact Us Here</p>
+        <p class="font-bold mb-6 text-cyan-800">Didn't find your answer in the FAQ? Contact Us Here</p>
         <form>
           <div class="form-group mb-6">
             <input type="text" class="form-control block
@@ -238,14 +238,14 @@
               py-1.5
               text-base
               font-normal
-              text-gray-700
+              text-cyan-800
               bg-white bg-clip-padding
               border border-solid border-gray-300
               rounded
               transition
               ease-in-out
               m-0
-              focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" id="exampleInput7"
+              focus:text-cyan-800 focus:bg-white focus:border-blue-600 focus:outline-none" id="exampleInput7"
               placeholder="Name">
           </div>
           <div class="form-group mb-6">
@@ -255,14 +255,14 @@
               py-1.5
               text-base
               font-normal
-              text-gray-700
+              text-cyan-800
               bg-white bg-clip-padding
               border border-solid border-gray-300
               rounded
               transition
               ease-in-out
               m-0
-              focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" id="exampleInput8"
+              focus:text-cyan-800 focus:bg-white focus:border-blue-600 focus:outline-none" id="exampleInput8"
               placeholder="Email address">
           </div>
           <div class="form-group mb-6">
@@ -274,14 +274,14 @@
               py-1.5
               text-base
               font-normal
-              text-gray-700
+              text-cyan-800
               bg-white bg-clip-padding
               border border-solid border-gray-300
               rounded
               transition
               ease-in-out
               m-0
-              focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none
+              focus:text-cyan-800 focus:bg-white focus:border-blue-600 focus:outline-none
             " id="exampleFormControlTextarea13" rows="3" placeholder="Message"></textarea>
           </div>
           <!--div class="form-group form-check text-center mb-6">
@@ -295,7 +295,7 @@
             w-full
             px-6
             py-2.5
-           bg-gradient-to-r to-cyan-800 from-orange-400
+           bg-orange-400
             text-white
             font-medium
             text-xs
@@ -303,9 +303,8 @@
             uppercase
             rounded
             shadow-md
-            hover:bg-blue-700 hover:shadow-lg
-            focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0
-            active:bg-blue-800 active:shadow-lg
+            hover:bg-cyan-700 hover:shadow-lg
+           
             transition
             duration-150
             ease-in-out">Send</button>
