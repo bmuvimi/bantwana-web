@@ -13,10 +13,10 @@
 
 
 @section('content')
-    <section class="mt-20   h-screen bg-fixed grid place-items-center" style="background-image: url('assets/img/partners.jpeg')">
+    <section class="mt-20 bg-gradient-to-r from-orange-400 to-cyan-800  h-screen bg-fixed grid place-items-center">
         <div class="h-14 mb-5 flex flex-col justify-center items-center">
             <div class="py-10 sm:w-8/12">
-                
+
                 <div class="text-center text-5xl text-white">Our Partners</div>
                 <h3 class="mb-4 font-bold text-xl text-white text-center">The only way to protect children is by
                     collaborating with other parties.</h3>
@@ -58,7 +58,7 @@
                     </div>
                 </div>
             </div>
-            <a class="mt-6 px-10 py-1 bg-gradient-to-r from-orange-400 to-orange-700 text-white text-l font-semibold rounded-md"
+            <a class="mt-14 px-10 py-1 bg-gradient-to-r from-orange-400 to-orange-700 text-white text-l font-semibold rounded-md"
                 href="https://docs.google.com/forms/d/1G1IUnyFqi2MRNPOQxiVUVbHFO_i-h7ZtyKxnUjjwm_o/edit"
                 target="_blank">Partner With Us</a>
         </div>
@@ -69,12 +69,13 @@
                 <div
                     class="mb-8 text-center text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r to-cyan-800 from-orange-400">
                     Our Partnerships</div>
-                <p class="mb-4 mt-1 text-lg text-cyan">Bantwana Zimbabwe's partnerships are driven by core values of
+                <p class="mb-4 mt-1 text-md font-sans text-cyan text-cyan-800">Bantwana Zimbabwe's partnerships are driven
+                    by core values of
                     programmatic excellence, innovation and collaboration. We specialize in strengthening the capacity of
                     partners to develop systems and competence to deliver results-based programming, providing technical
                     leadership across various sub-sectors. We have a reputation of high competence in working with diverse
                     partners in the following areas:
-                <ul class="list-disc ml-10">
+                <ul class="list-disc px-20 text-cyan-800">
                     <li>Comprehensive programing for vulnerable children and adolescents</li>
                     <li>Improving HIV outcomes from birth through adolescence</li>
                     <li>Preventing and responding to violence against children (VAC) including child sexual abuse (CSA)</li>
@@ -91,13 +92,12 @@
         </div>
         </div>
     </section>
-    <section class="mt-20 px-20 py-20 h-full">
-        <!-- ====== PARTNERSHIPS-DONORS STARTS HERE ==== -->
+    <section class="mt-20 px-20  ">
         <div class="bg-white-600">
-            <div class="max-w-screen-xl py-10 px-4 sm:px-6 text-gray-800 sm:flex justify-between mx-auto">
-                <div class="p-5 sm:w-4/12">
+            <div class=" py-10 px-4  text-gray-800 ">
+                <div class="p-5 ">
                     <h3
-                        class="font-bold text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r to-cyan-800 from-orange-400 mb-4">
+                        class="font-bold text-xl  text-transparent bg-clip-text bg-gradient-to-r to-cyan-800 from-orange-400 mb-4">
                         National Level Impact</h3>
                     <hr><br>
                     <p class="text-gray-800 text-md mb-5">Bantwana Zimbabwe is working at a national level; helping to save
@@ -241,13 +241,14 @@
                         </a>
                     </div>
                 </div>
-                <div class="p-5 sm:w-5/12 flex flex-col">
+                <div class="p-5">
                     <h3
-                        class="font-bold text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r to-cyan-800 from-orange-400 mb-2 pl-10">
+                        class="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r to-cyan-800 from-orange-400 mb-2 pl-10">
                         Our Donors</h3>
-                    <hr><br>
-                    <div class="flex mb-3">
-                        <div class="h-40 w-5/12 bg-cover" style="background-image: url('assets/img/partner-1.png')"
+                    <hr>
+                    <br>
+                    <div class="mb-3">
+                        <div class="h-40 bg-cover" style="background-image: url('assets/img/partner-1.png')"
                             title="United States Agency for International Development (USAID)">
                         </div>
                         <div class="pl-3 w-9/12">
@@ -260,8 +261,8 @@
                             </p>
                         </div>
                     </div>
-                    <div class="flex mb-3">
-                        <div class="h-40 w-5/12 bg-cover" style="background-image: url('assets/img/unicef.png')"
+                    <div class="mb-3">
+                        <div class="h-40  bg-cover" style="background-image: url('assets/img/unicef.png')"
                             title="United Nations Children's Fund (UNICEF)">
                         </div>
                         <div class="pl-3 w-9/12">
@@ -273,8 +274,8 @@
                             </p>
                         </div>
                     </div>
-                    <div class="flex mb-3">
-                        <div class="h-40 w-5/12 bg-cover" style="background-image: url('assets/img/partner-2.jpg')"
+                    <div class="mb-3">
+                        <div class="h-40 bg-cover" style="background-image: url('assets/img/partner-2.jpg')"
                             title="United Nations Children's Fund (UNICEF)">
                         </div>
                         <div class="pl-3 w-9/12">
@@ -287,7 +288,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="p-5 sm:w-3/12">
+                <div class="p-5">
                     <h3
                         class="font-bold text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r to-cyan-800 from-orange-400 mb-4">
                         Technical Patners</h3>
@@ -320,14 +321,6 @@
 
             <!-- Section: Design Block -->
             <section class="mb-32">
-                <style>
-                    @media (min-width: 992px) {
-                        #cta-img-nml-50 {
-                            margin-left: 50px;
-                        }
-                    }
-                </style>
-
                 <div class="flex flex-wrap">
                     <div class="grow-0 shrink-0 basis-auto w-full lg:w-5/12 mb-12 lg:mb-0">
                         <div class="flex lg:py-12">
