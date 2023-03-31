@@ -191,7 +191,7 @@
 <div class="container my-24 px-6 mx-auto">
 
   <!-- Section: PRIVATE POLICY -->
-  <section class="mb-32 text-gray-800">
+  {{-- <section class="mb-32 text-gray-800">
     <div class="flex flex-wrap">
       <div class="grow-0 shrink-0 basis-auto mb-12 md:mb-0 w-full md:w-7/12 px-3 lg:px-6">
         <h2 class="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r to-cyan-800 from-orange-400 mb-6">Frequently asked questions</h2>
@@ -311,7 +311,7 @@
         </form>
       </div>
     </div>
-  </section>
+  </section> --}}
   <!-- Section: Design Block -->
 
 </div>
