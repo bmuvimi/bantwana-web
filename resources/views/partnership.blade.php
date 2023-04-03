@@ -249,7 +249,7 @@
                 <div class="flex flex-wrap">
                     <div class="grow-0 shrink-0 basis-auto mb-6 md:mb-0 w-full md:w-6/12 px-3 lg:px-6">
                         <h2
-                            class="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r to-cyan-800 from-orange-400 font-bold mb-6">
+                            class="text-3xl text-transparent bg-clip-text bg-gradient-to-r to-cyan-800 from-orange-400 font-bold mb-6">
                             Invest in a brighter and bolder future</h2>
                         <p class="text-gray-600 mb-6">
                             Together, we can support local communities to create a brighter, more prosperous future for
