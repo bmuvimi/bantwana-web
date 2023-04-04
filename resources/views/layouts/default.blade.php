@@ -9,6 +9,7 @@
     <link rel="shortcut icon" type="image/png" href="{{ URL::to('assets/img/bz-logo.png') }}" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1zt cQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     @vite(['resources/css/app.css','resources/js/app.js'])
+    <link rel="stylesheet" href="{{URL::to('build/assets/app-59f688f8.css')}}">
 </head>
 
 <body class="">
@@ -248,6 +249,7 @@
 
     {{-- Scripts --}}
     <script src="../path/to/flowbite/dist/flowbite.min.js"></script>
+    <script src="{{URL::to('build/assets/app-d79675b9.js')}}"></script>
 </body>
 
 </html>
