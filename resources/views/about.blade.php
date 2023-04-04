@@ -151,7 +151,9 @@
                 </div>
                 <div class="col-span-7">
                     <h2 class="text-cyan-800 text-2xl font-semibold uppercase">
+                        <a href="https://kudzidza.com/" target="_blank">
                         Kudzidza Live Learning Center
+                        </a>
                     </h2>
                     <hr class="border-cyan-900 mt-5">
                     <p class="pt-5 text-cyan-800 font-sans">
