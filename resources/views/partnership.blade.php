@@ -27,7 +27,7 @@
                             <img src="assets/img/partner-3.png" class="w-full rounded-md shadow-lg" />
                         </div>
                         <div class="lg:mb-0">
-                            <img src="assets/img/whh.jpg" class="w-full rounded-md shadow-lg" />
+                            <img src="assets/img/world_bank.png" class="w-full rounded-md shadow-lg" />
                         </div>
                         <div class="lg:mb-0">
                             <img src="assets/img/partner-4.jpg" class="w-full rounded-md shadow-lg" />
@@ -36,10 +36,10 @@
                             <img src="assets/img/unicef.png" class="w-full rounded-md shadow-lg" />
                         </div>
                         <div class="lg:mb-0">
-                            <img src="assets/img/partner-5.jpg" class="w-full rounded-md shadow-lg" />
+                            <img src="assets/img/no_means_no.png" class="w-full rounded-md shadow-lg" />
                         </div>
                         <div class="lg:mb-0">
-                            <img src="assets/img/partner-6.png" class="w-full rounded-md shadow-lg" />
+                            <img src="assets/img/fact.png" class="w-full rounded-md shadow-lg" />
                         </div>
                         <div class="lg:mb-0">
                             <img src="assets/img/fmh.png" class="w-full rounded-md shadow-lg" />
