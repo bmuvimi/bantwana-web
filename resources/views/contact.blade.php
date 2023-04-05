@@ -133,7 +133,8 @@
                       </div>
                     </div>
                     <div class="grow ml-6">
-                      <p class="font-bold mb-1">Regional Office - Bulawayo</p>
+                      <p class="font-bold mb-1">Regional Office - Bulawayo (DREAMS)</p>
+                      <p class="text-orange-600">34 Imbalala, Selbourne Park, Bulawayo</p>
                       <p class="text-cyan-800">info@bantwana.co.zw</p>
                       <p class="text-cyan-800"> 263 8677 009776</p>
                     </div>
